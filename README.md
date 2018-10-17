@@ -24,3 +24,6 @@ npm run test
 ```
 npm run lint
 ```
+## Pictures
+![preview](https://image.ibb.co/fvMBmL/image.png)
+![preview](https://image.ibb.co/kb5ht0/image.png)
